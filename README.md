@@ -32,8 +32,26 @@
 
 <h2 align="center">🧰 Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,php,mysql,html,css,js,bootstrap,powerbi,vscode,github" />
+  <!-- Programming & Data -->
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />
+
+  <!-- Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
 </p>
+
+
 
 ---
 
