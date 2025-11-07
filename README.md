@@ -1,4 +1,5 @@
 <!-- Dynamic Banner -->
+![logo](https://github.com/suvendu-sarangi089/suvendu-sarangi089/blob/main/Github%20Banner%20Image.png)
 <h1 align="center">👋 Hey there, I'm <span style="color:#1f6feb;">Suvendu Sarangi</span></h1>
 <h3 align="center">📊 Junior Data Analyst | Transforming Data into Insights | From Odisha, India 🇮🇳</h3>
 
