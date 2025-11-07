@@ -22,7 +22,9 @@
 <p align="center">
   <a href="https://twitter.com/jagan18269" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/suvendunsarangi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="https://fb.com/thisissuvendu" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" /></a>
+  <a href="https://fb.com/thisissuvendu" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
+  </a>
   <a href="https://instagram.com/suvendu_1430" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
 </p>
 
