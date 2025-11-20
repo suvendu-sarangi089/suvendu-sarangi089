@@ -33,4 +33,11 @@
       dur="6s"
       repeatCount="indefinite"
       values="
+        M0 160 Q 300 210 600 160 T 1200 160 V 250 H 0 Z;
+        M0 170 Q 300 150 600 180 T 1200 170 V 250 H 0 Z;
         M0 160 Q 300 210 600 160 T 1200 160 V 250 H 0 Z
+      "
+    />
+  </path>
+
+</svg>
