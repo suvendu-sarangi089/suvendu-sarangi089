@@ -1,7 +1,8 @@
-![logo](https://github.com/suvendu-sarangi089/suvendu-sarangi089/blob/main/Github%20Banner%20Image.png)
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/suvendu-sarangi089/main/banner.svg" width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Suvendu+Sarangi+👋;Junior+Data+Analyst+📊;Transforming+Data+into+Insights+💡;From+Odisha,+India+🇮🇳" alt="Typing SVG" />
 </p>
+
 
 <h2>👋 About Me</h2>
 <p>
