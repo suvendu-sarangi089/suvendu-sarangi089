@@ -159,42 +159,31 @@ MySQL • Power BI • Excel • Python • PHP • HTML5 • CSS3 • JavaScrip
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suvendu-sarangi089&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<h2 align="center">📈 GitHub Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvendu-sarangi089&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
 <hr/>
 
 <h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
 
   <!-- X (formerly Twitter) -->
-  <a href="https://twitter.com/jagan18269" target="_blank">
+  <a href="https://twitter.com/jagan18269" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="X" />
   </a>
 
-  <a href="https://linkedin.com/in/suvendunsarangi" target="_blank">
+  <a href="https://linkedin.com/in/suvendunsarangi" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 
-  <a href="https://fb.com/thisissuvendu" target="_blank">
+  <a href="https://fb.com/thisissuvendu" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
   </a>
 
-  <a href="https://instagram.com/suvendu_1430" target="_blank">
+  <a href="https://instagram.com/suvendu_1430" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:suvendusarangi1430@gmail.com" target="_blank">
+  <a href="mailto:suvendusarangi1430@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 
