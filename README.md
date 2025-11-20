@@ -1,5 +1,5 @@
 <p align="center">
- [<img src="https://github.com/suvendu-sarangi089/suvendu-sarangi089/blob/main/banner.svg?raw=1" width="100%" />](https://github.com/suvendu-sarangi089/suvendu-sarangi089/blob/main/banner.svg)
+<img src="https://github.com/suvendu-sarangi089/suvendu-sarangi089/blob/main/banner.svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Suvendu+Sarangi+👋;Junior+Data+Analyst+📊;Transforming+Data+into+Insights+💡;From+Odisha,+India+🇮🇳" alt="Typing SVG" />
 </p>
 
