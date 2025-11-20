@@ -192,7 +192,7 @@ MySQL • Power BI • Excel • Python • PHP • HTML5 • CSS3 • JavaScrip
 <hr/>
 
 <h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
-------
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
