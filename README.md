@@ -40,7 +40,7 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 ## ⚡ Core Expertise
 
 <div align="center">
-## 🚀 Core Expertise
+
 
 | Domain | Technologies |
 |--------|---------------|
@@ -62,7 +62,6 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 
 <div align="center">
 
-## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -115,8 +114,6 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 ---
 
 ## 📊 GitHub Stats
-<p> <!-- Add your GitHub stats here later if you want --> </p>
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvendu-sarangi089&show_icons=true&theme=tokyonight" alt="Suvendu's GitHub Stats" />
 </p>
