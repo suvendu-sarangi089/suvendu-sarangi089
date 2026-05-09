@@ -115,15 +115,19 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 ---
 
 ## 📊 GitHub Stats
+<p> <!-- Add your GitHub stats here later if you want --> </p>
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvendu-sarangi089&show_icons=true&theme=tokyonight" alt="Suvendu's GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psahoo-456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psahoo-456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvendu-sarangi089&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=psahoo-456&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvendu-sarangi089&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
