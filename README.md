@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Suvendu%20Sarangi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Data+Analyst+📊;Data+Scientist+🤖;SQL+and+Power+BI+Enthusiast+⚡;Transforming+Data+into+Insights+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Data+Analyst+📉🧠;Data+Scientist+🤖;SQL+and+Power+BI+Enthusiast+⚡;Transforming+Data+into+Insights+✨)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,13 +44,13 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 
 | Domain | Technologies |
 |--------|---------------|
-| 📊 Data Analytics | SQL · PostgreSQL · Excel · Power BI · Python |
+| 💻Data Analytics | SQL · Excel · Power BI · Python |
 | 🧹 Data Processing | Data Cleaning · ETL Pipelines · Data Modeling · Database Management |
-| 📈 Visualization | Interactive Dashboards · KPI Reporting · Business Intelligence |
+| 📈 Visualization | Interactive Dashboards · KPI Reporting |
 | 🐍 Python Libraries | Pandas · NumPy · Matplotlib · Seaborn |
 | 🌐 Web Development | HTML · CSS · JavaScript · PHP |
-| 🗄️ Database | MySQL · PostgreSQL |
-| ⚡ Tools & Platforms | Git · GitHub · VS Code · Jupyter Notebook |
+| 🗄️ Database | MySQL |
+| ⚡ Tools & Platforms | GitHub · VS Code · Jupyter Notebook |
 
 </div>
 
