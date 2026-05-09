@@ -31,7 +31,7 @@ I’m Suvendu Sarangi, a passionate and detail-oriented fresher in Data Science 
 
 🌐 I also have experience in web development using HTML, CSS, JavaScript, and PHP, allowing me to build interactive and data-driven applications.
 
-📂 Check out my portfolio 👉 My Portfolio
+📂 Check out my portfolio 👉 [**My Portfolio**](https://suvenduportfolio.netlify.app)
 
 💡 “Transforming Data into Insights.” 📊✨
 
